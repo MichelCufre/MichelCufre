@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Michel Cufré!  
-### 👨‍💻 Backend Developer | AI Enthusiast | Tech Innovator  
+### 👨‍💻 Backend Developer | Full Stack Developer | Tech Innovator  
 
 Welcome to my GitHub profile! I'm passionate about automation, artificial intelligence, and backend development. Here, you'll find a collection of my projects, contributions, and experiments with cutting-edge technologies.
 
@@ -40,7 +40,7 @@ Here are some of the projects I've been working on:
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-MichelCufre-blue?style=flat-square&logo=linkedin](https://www.linkedin.com/in/jean-michel-nicolas-cufre-vaysse/))](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MichelCufre-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jean-michel-nicolas-cufre-vaysse/)
 
 ---
 
