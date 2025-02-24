@@ -25,7 +25,6 @@ Here are some of the projects I've been working on:
 ---
 
 ## 📈 GitHub Stats  
-![MichelCufre's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelCufre&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelCufre&layout=compact&theme=radical)  
 
 ---
